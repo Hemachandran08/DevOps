@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-30T10:04:14 IST" name="Surefire suite" finished-at="2024-04-30T10:04:14 IST" duration-ms="33">
+    <groups>
+    </groups>
+    <test started-at="2024-04-30T10:04:14 IST" name="Surefire test" finished-at="2024-04-30T10:04:14 IST" duration-ms="33">
+      <class name="com.rts.JenkinsSample1.TestWorking">
+        <test-method signature="testAddToLog1()[pri:0, instance:com.rts.JenkinsSample1.TestWorking@44a7bfbc]" started-at="2024-04-30T10:04:14 IST" name="testAddToLog1" finished-at="2024-04-30T10:04:14 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToLog1 -->
+        <test-method signature="testAddToLog2()[pri:0, instance:com.rts.JenkinsSample1.TestWorking@44a7bfbc]" started-at="2024-04-30T10:04:14 IST" name="testAddToLog2" finished-at="2024-04-30T10:04:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToLog2 -->
+        <test-method signature="testAddToLogins2()[pri:0, instance:com.rts.JenkinsSample1.TestWorking@44a7bfbc]" started-at="2024-04-30T10:04:14 IST" name="testAddToLogins2" finished-at="2024-04-30T10:04:14 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToLogins2 -->
+        <test-method signature="testAddToLogins1()[pri:0, instance:com.rts.JenkinsSample1.TestWorking@44a7bfbc]" started-at="2024-04-30T10:04:14 IST" name="testAddToLogins1" finished-at="2024-04-30T10:04:14 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAddToLogins1 -->
+      </class> <!-- com.rts.JenkinsSample1.TestWorking -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
